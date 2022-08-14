@@ -1,8 +1,13 @@
 import "./app.css";
 import React from "react";
+import Card from "./components/card/card";
 
 function App() {
-  return <h1>Hello</h1>;
+  return (
+    <>
+      <Card />
+    </>
+  );
 }
 
 export default App;
