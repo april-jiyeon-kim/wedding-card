@@ -1,27 +1,6 @@
-@value colorBackground from '../../common/colors.css';
-
-@font-face {
-  font-family: "coopbl";
-  src: url("../../fonts/COOPBL.TTF");
-}
-
-/* Section common */
-.section {
-  padding: 0 20px;
-  text-align: center;
-  margin: auto;
-}
-
 .section__container {
   max-width: 1200px;
   margin: auto;
-}
-
-h1 {
-  font-size: fontLarge;
-  font-weight: weightBold;
-  margin: 16px 0px;
-  font-family: "coopbl";
 }
 
 .wedding__memory {

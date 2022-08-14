@@ -12,18 +12,18 @@ const Gallery = () => {
   ];
 
   return (
-    <section class={styles.section}>
-      <div class={styles.section__container}>
+    <section>
+      <div className={styles.section__container}>
         <h1>Our Moments</h1>
-        <div class={styles.wedding__memory}>
+        <div className={styles.wedding__memory}>
           {weddingPhotos.map((photo) => {
             return (
               <>
-                <div class={styles.memory}>
+                <div key={photo} className={styles.memory}>
                   <img
                     src={`imgs/${photo}.jpg`}
                     alt={photo}
-                    class={styles.memory__img}
+                    className={styles.memory__img}
                   />
                 </div>
               </>
