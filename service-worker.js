@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/wedding-card/precache-manifest.a410bb9c6e8a1ecc6c2b3829856e761a.js"
+  "/react-deploy-test/precache-manifest.d3d8abd85eca1507a029908dd88e6243.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/wedding-card/index.html", {
+workbox.routing.registerNavigationRoute("/react-deploy-test/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
