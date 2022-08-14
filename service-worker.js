@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-deploy-test/precache-manifest.d3d8abd85eca1507a029908dd88e6243.js"
+  "https://april-jiyeon-kim.github.io/wedding-card/precache-manifest.00e208264b0f09f4c33f092e8925533c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/react-deploy-test/index.html", {
+workbox.routing.registerNavigationRoute("https://april-jiyeon-kim.github.io/wedding-card/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
