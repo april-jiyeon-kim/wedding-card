@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "https://april-jiyeon-kim.github.io/wedding-card/precache-manifest.00e208264b0f09f4c33f092e8925533c.js"
+  "https://april-jiyeon-kim.github.io/wedding-card/precache-manifest.c16d1790955cf3a5f04230a229deaab3.js"
 );
 
 workbox.clientsClaim();
