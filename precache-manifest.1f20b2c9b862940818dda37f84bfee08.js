@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a0b76350fd655b247381",
+    "revision": "03d7433557e6670e1dd3",
     "url": "https://april-jiyeon-kim.github.io/wedding-card/static/css/main.b47a553e.chunk.css"
   },
   {
-    "revision": "a0b76350fd655b247381",
-    "url": "https://april-jiyeon-kim.github.io/wedding-card/static/js/main.a0b76350.chunk.js"
+    "revision": "03d7433557e6670e1dd3",
+    "url": "https://april-jiyeon-kim.github.io/wedding-card/static/js/main.03d74335.chunk.js"
   },
   {
     "revision": "36d575f090ac34ca85dd",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "https://april-jiyeon-kim.github.io/wedding-card/static/media/COOPBL.8eb03871.TTF"
   },
   {
-    "revision": "d99cca1687dd126ae0f4cc3d8c706805",
+    "revision": "91be3fb5f20f5144ee9909d69ae1390f",
     "url": "https://april-jiyeon-kim.github.io/wedding-card/index.html"
   }
 ];
