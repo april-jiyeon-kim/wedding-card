@@ -11,10 +11,10 @@ function App() {
   return (
     <>
       <div className={styles.app}>
-        <BrowserRouter basename={process.env.PUBLIC_URL}>
+        <BrowserRouter>
           <Routes>
             <Route
-              path="/"
+              path="/wedding-card"
               exact
               element={
                 <>
@@ -25,7 +25,7 @@ function App() {
               }
             />
             <Route
-              path="/misook"
+              path="/wedding-card/misook"
               element={
                 <>
                   <Card version={2} />
