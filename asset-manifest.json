@@ -1,7 +1,7 @@
 {
-  "main.css": "/wedding-card/static/css/main.35e3cd92.chunk.css",
-  "main.js": "/wedding-card/static/js/main.eb3ab727.chunk.js",
-  "main.js.map": "/wedding-card/static/js/main.eb3ab727.chunk.js.map",
+  "main.css": "/wedding-card/static/css/main.5604bc12.chunk.css",
+  "main.js": "/wedding-card/static/js/main.e6093fc5.chunk.js",
+  "main.js.map": "/wedding-card/static/js/main.e6093fc5.chunk.js.map",
   "static/js/1.12fd4f0c.chunk.js": "/wedding-card/static/js/1.12fd4f0c.chunk.js",
   "static/js/1.12fd4f0c.chunk.js.map": "/wedding-card/static/js/1.12fd4f0c.chunk.js.map",
   "static/js/2.e772ef7a.chunk.js": "/wedding-card/static/js/2.e772ef7a.chunk.js",
@@ -9,8 +9,8 @@
   "runtime~main.js": "/wedding-card/static/js/runtime~main.a4045e1b.js",
   "runtime~main.js.map": "/wedding-card/static/js/runtime~main.a4045e1b.js.map",
   "static/media/app.module.css": "/wedding-card/static/media/COOPBL.8eb03871.TTF",
-  "static/css/main.35e3cd92.chunk.css.map": "/wedding-card/static/css/main.35e3cd92.chunk.css.map",
+  "static/css/main.5604bc12.chunk.css.map": "/wedding-card/static/css/main.5604bc12.chunk.css.map",
   "index.html": "/wedding-card/index.html",
-  "precache-manifest.ca131f99201373961375c6611a246d5c.js": "/wedding-card/precache-manifest.ca131f99201373961375c6611a246d5c.js",
+  "precache-manifest.a521522276bf0178c9d9bd00fe18e5b6.js": "/wedding-card/precache-manifest.a521522276bf0178c9d9bd00fe18e5b6.js",
   "service-worker.js": "/wedding-card/service-worker.js"
 }
