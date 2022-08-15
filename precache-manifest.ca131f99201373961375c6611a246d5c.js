@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/wedding-card/static/media/COOPBL.8eb03871.TTF"
   },
   {
-    "revision": "d143785ac8aedb5f1c2f92e61845c1dc",
+    "revision": "ba9001f60ad553d002e3a75714f11f02",
     "url": "/wedding-card/index.html"
   }
 ];
