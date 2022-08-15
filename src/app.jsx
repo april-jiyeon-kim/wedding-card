@@ -5,6 +5,7 @@ import Gallery from "./components/gallery/gallery";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import styles from "./app.module.css";
 import Footer from "./components/footer/footer";
+import Contact from "./components/contact/contact";
 
 function App() {
   return (
